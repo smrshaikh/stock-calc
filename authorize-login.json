@@ -1,3 +1,4 @@
 {
-  "allowLogin": true
+  "allowLogin": true,
+  "password":123456
 }
